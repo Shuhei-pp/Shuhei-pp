@@ -14,4 +14,5 @@ Shuhei-ppこと小唄周平です。
 * [shame_development](https://github.com/Shuhei-pp/shame_development)
 * [docker_rails](https://github.com/Shuhei-pp/docker_rails)
 * [animation_prc](https://github.com/Shuhei-pp/animation_prc)
-* [ttc_system](https://github.com/Shuhei-pp/ttc_system)
+* [ttc_system](https://github.com/Shuhei-pp/ttc_system)  
+* [yugioh](https://github.com/Shuhei-pp/Yugioh_Neuron)
