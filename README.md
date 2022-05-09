@@ -4,7 +4,8 @@
 **Shuhei-pp/Shuhei-pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Shuhei-ppこと小唄周平です。  
+Shuhei-ppこと小唄周平です。
+大学4年生です.  
 
 ![](https://komarev.com/ghpvc/?username=Shuhei-pp&color=green)
 
