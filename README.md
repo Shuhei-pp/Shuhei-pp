@@ -19,4 +19,5 @@ Shuhei-ppこと小唄周平です。
 * [docker_rails](https://github.com/Shuhei-pp/docker_rails)
 * [animation_prc](https://github.com/Shuhei-pp/animation_prc)
 * [ttc_system](https://github.com/Shuhei-pp/ttc_system)  
-* [yugioh](https://github.com/Shuhei-pp/Yugioh_Neuron)
+* [Fsupport](https://github.com/Shuhei-pp/weather)
+* [gaze_study](https://github.com/Shuhei-pp/Gaze_Study)
