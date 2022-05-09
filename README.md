@@ -5,7 +5,6 @@
 -->
 
 Shuhei-ppこと小唄周平です。
-大学4年生です.  
 
 ![](https://komarev.com/ghpvc/?username=Shuhei-pp&color=green)
 
