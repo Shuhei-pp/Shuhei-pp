@@ -8,15 +8,13 @@ Shuhei-ppこと小唄周平です。
 
 ![](https://komarev.com/ghpvc/?username=Shuhei-pp&color=green)
 
-
-# Repositories
-
-* Shuhei-pp 
-* [rails_todolist](https://github.com/Shuhei-pp/rails_todolist)
-* [Shuhei-pp.github.io](https://github.com/Shuhei-pp/Shuhei-pp.github.io)
-* [shame_development](https://github.com/Shuhei-pp/shame_development)
-* [docker_rails](https://github.com/Shuhei-pp/docker_rails)
-* [animation_prc](https://github.com/Shuhei-pp/animation_prc)
-* [ttc_system](https://github.com/Shuhei-pp/ttc_system)  
-* [Fsupport](https://github.com/Shuhei-pp/weather)
-* [gaze_study](https://github.com/Shuhei-pp/Gaze_Study)
+<!-- リポジトリステータス -->
+<a href="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuhei-pp&hide=contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/Shuhei-pp/)"
+</a>
+<a href="">
+<!-- ソースコード統計 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhei-pp&layout=compact">
+</a>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuhei-pp)
