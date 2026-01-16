@@ -20,4 +20,4 @@ SW Engineer.
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuhei-pp)
 
-[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=YOUR_USERNAME)](https://github.com/qkitzero/github-contribution-growth-graph)
+[![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=Shuhei-pp)](https://github.com/qkitzero/github-contribution-growth-graph)
