@@ -11,16 +11,12 @@ SW Engineer.
 
 <!-- リポジトリステータス -->
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuhei-pp&hide=contribs&count_private=true&show_icons=true&theme=vue)](https://github.com/Shuhei-pp/)"
-</a>
-<a href="">
 <!-- ソースコード統計 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhei-pp&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhei-pp&layout=compact"/>
 </a>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuhei-pp)
 
 [![GitHub Contribution Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/contributions?user=Shuhei-pp)](https://github.com/qkitzero/github-contribution-growth-graph)
-
 
 [![GitHub Language Growth Graph](https://github-contribution-growth-graph.qkitzero.xyz/graph/languages?user=Shuhei-pp)](https://github.com/qkitzero/github-contribution-growth-graph)
