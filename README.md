@@ -8,12 +8,6 @@ I'm Shuhei-pp.
 SW Engineer.
 
 ![](https://komarev.com/ghpvc/?username=Shuhei-pp&color=green)
-
-<!-- リポジトリステータス -->
-<a href="">
-<!-- ソースコード統計 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuhei-pp&layout=compact"/>
-</a>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shuhei-pp)
 
